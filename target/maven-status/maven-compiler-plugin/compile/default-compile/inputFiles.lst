@@ -1,0 +1,16 @@
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/JwtTokenApplication.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/controllers/ErrorAuthController.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/controllers/AuthResponse.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/services/JwtService.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/jwt/JwtAuthenticationFilter.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/app/controllers/App.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/entities/dto/RegisterDto.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/controllers/AuthController.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/entities/models/RoleEntity.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/repository/UserRepository.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/config/SecurityConfig.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/entities/dto/LoginDto.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/entities/models/UserEntity.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/config/ApplicationConfig.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/services/AuthService.java
+/home/narvaez/Escritorio/jwt-token/src/main/java/com/springboot/jwttoken/security/entities/models/RoleEnum.java
